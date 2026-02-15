@@ -14,13 +14,6 @@ I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy br
 
 ---
 
-### 🔭 What I’m Up To
-- **Latest Project:** Developed an **Agentic Honey-Pot for Scam Detection** (Python-based API) during a recent hackathon.
-- **Academic Focus:** Currently diving deep into Advanced Mathematics (Bessel functions/PDEs) and Engineering Statics.
-- **Current Goal:** Mastering the intersection of **Agentic AI** and **Cybersecurity** frameworks.
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** linkedin.com/in/athul-jenson-463683389
 
