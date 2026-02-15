@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 
+# Hi there, I'm Athul Jenson! 👋 
 
 ### 🚀 Computer Science Student @ PES University
 I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy bridging the gap between complex engineering math and functional code—whether it's building agentic APIs or simulating mechanics.
@@ -10,7 +10,7 @@ I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy br
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Scientific Computing:** ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Scilab](https://img.shields.io/badge/Scilab-00529B?style=for-the-badge)
 - **Frameworks & Tools:** ![AntiGravity](https://img.shields.io/badge/AntiGravity-%23222222.svg?style=for-the-badge) ![Lovable](https://img.shields.io/badge/Lovable-7B61FF?style=for-the-badge)
-- **Focus Areas:** API Development, Scam Detection, Engineering Mechanics Simulation
+- **Focus Areas:** API Development, Scam Detection
 
 ---
 
@@ -22,14 +22,14 @@ I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy br
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=2aj0&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2aj0&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Your Profile Link]
-- **Portfolio:** [Your Portfolio Link]
+- **LinkedIn:** linkedin.com/in/athul-jenson-463683389
+
 <!--
 **2AJ0/2aj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
