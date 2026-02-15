@@ -21,12 +21,6 @@ I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy br
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=2aj0&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2aj0&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** linkedin.com/in/athul-jenson-463683389
 
