@@ -26,7 +26,7 @@ I am an aspiring Software Engineer and AI/ML enthusiast. I enjoy building functi
 
 ### 📫 Connect with me:
 **Email:** (athuljenson2007@gmail.com)
- **LinkedIn:** linkedin.com/in/athul-jenson-463683389
+ **LinkedIn:** (linkedin.com/in/athul-jenson-463683389)
 
 <!--
 **2AJ0/2aj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
