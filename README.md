@@ -1,21 +1,32 @@
-# Hi there, I'm Athul Jenson! 👋 
+# Hi there, I'm Athul Jenson! 👋
 
-### 🚀 Computer Science Student @ PES University
-I’m a developer focused on **AI, Data Science, and Cybersecurity**. I enjoy bridging the gap between complex engineering math and functional code—whether it's building agentic APIs or simulating mechanics.
-
----
-
-### 🛠 My Toolbox
-
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- **Scientific Computing:** ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![Scilab](https://img.shields.io/badge/Scilab-00529B?style=for-the-badge)
-- **Frameworks & Tools:** ![AntiGravity](https://img.shields.io/badge/AntiGravity-%23222222.svg?style=for-the-badge) ![Lovable](https://img.shields.io/badge/Lovable-7B61FF?style=for-the-badge)
-- **Focus Areas:** API Development, Scam Detection
+### 🚀 1st Year CSE Student @ PES University (EC Campus) | sGPA: 8.25/10.0  (SEM-1)
+I am an aspiring Software Engineer and AI/ML enthusiast. I enjoy building functional GUI applications and exploring data-driven solutions. I’m currently focusing on mastering Python, Java, and C++ while maintaining a strong academic record.
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** linkedin.com/in/athul-jenson-463683389
+### 🎓 Education 
+* 🏫 **B.Tech in Computer Science & Engineering** - PES University (Expected 2029)
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python (NumPy, Scikit-learn, NLTK, wxPython), Java, C++, C.
+* **Tools:** VS Code, Git/GitHub, Matlab, Scilab, Chemsketch.
+* **AI Productivity:** Gemini, ChatGPT, Claude, Lovable.
+
+---
+
+### ⚡ Fun Fact & Goals
+* 🎯 **Currently Learning:** Advanced C and Game Mechanics.
+* 🚀 **Future Projects:** Spam Message Classifier (NLTK) & Secure Password Manager.
+* 💡 **Philosophy:** Using AI-assisted development to build faster and smarter.
+
+---
+
+### 📫 Connect with me:
+**Email:** (athuljenson2007@gmail.com)
+ **LinkedIn:** linkedin.com/in/athul-jenson-463683389
 
 <!--
 **2AJ0/2aj0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
