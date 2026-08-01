@@ -1,6 +1,6 @@
 # Hi there, I'm Athul Jenson! 👋
 
-### 🚀 1st Year CSE Student @ PES University (EC Campus) | SGPA: 8.25/10.0  (SEM-1)
+### 🚀 2st Year CSE Student @ PES University (EC Campus) | CGPA: 8.08/10.0
 I am an aspiring Software Engineer and AI/ML enthusiast. I enjoy building functional GUI applications and exploring data-driven solutions. I’m currently focusing on mastering Python, Java, and C++ while maintaining a strong academic record.
 
 ---
@@ -19,7 +19,6 @@ I am an aspiring Software Engineer and AI/ML enthusiast. I enjoy building functi
 
 ### ⚡ Fun Fact & Goals
 * 🎯 **Currently Learning:** Advanced C and Game Mechanics.
-* 🚀 **Future Projects:** Spam Message Classifier (NLTK) & Secure Password Manager.
 * 💡 **Philosophy:** Using AI-assisted development to build faster and smarter.
 
 ---
